@@ -5,4 +5,4 @@ os = "windows"
 
     [[hftbt_lib.download]]
     sha256 = "0cd5664d8fcaf2f1cfc4b1cb7fbb5cf2744768829e9e7e72ef893c52a275b750"
-    url = "https://github.com/linanisyugioh/HFT.jl/releases/download/V0.1.0/hfttb_windows_x64.tar.gz"
+    url = "https://github.com/linanisyugioh/HFT.jl/releases/download/V0.1.0/hftbt_windows_x64.tar.gz"
