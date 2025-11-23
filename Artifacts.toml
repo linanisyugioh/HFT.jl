@@ -4,5 +4,5 @@ git-tree-sha1 = "df8b3a52bc064dea0db2779eb2cee9364c63a2f4"
 os = "windows"
 
     [[hftbt_lib.download]]
-    sha256 = "23c49b89e60ef058e744cb393b59dd2c265cccdcfa4935c0bded0165483b6ab7"
+    sha256 = "0cd5664d8fcaf2f1cfc4b1cb7fbb5cf2744768829e9e7e72ef893c52a275b750"
     url = "https://github.com/linanisyugioh/HFT.jl/releases/download/V0.1.0/hfttb_windows_x64.tar.gz"
